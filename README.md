@@ -1,6 +1,9 @@
 # Sites Monitoring Utility
 
-[TODO. There will be project description]
+You can use this script to check if sites return code 200 and are sites prepaid for at least a month ahead.
+
+## How To Use
+Install dependencies `pip install -r requirements.txt`. Run the script.
 
 # Project Goals
 
